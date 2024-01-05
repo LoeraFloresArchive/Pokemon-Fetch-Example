@@ -1,7 +1,8 @@
 repo_name: xavierloeraflores/Pokemon-Fetch-Example
 report_id: 396299e5829b69f051af2a410c347936
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-16T13:01:17+00:00'
+timestamp: '2024-01-05T08:38:20+00:00'
 requested_by: xavierloeraflores
 provider: github
 branch: main
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/xavierloeraflores/Pokemon-Fetch-Example
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -25,6 +27,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/xavierloeraflores/Pokemon-Fetch-Example
   detection_source: Repo Metadata
 - name: HTML
   description: Hypertext Markup Language for creating web pages.
@@ -32,6 +35,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/xavierloeraflores/Pokemon-Fetch-Example/blob/main/index.html
   detection_source: index.html
   last_updated_by: xavierloeraflores
   last_updated_on: 2023-05-26 03:54:55.000000000 Z
